@@ -1,0 +1,4 @@
+# SCANmO
+
+## Team
+Sevi Yan
